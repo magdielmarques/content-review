@@ -1,0 +1,19 @@
+{
+  "name": "content-review",
+  "version": "1.0.0",
+  "description": "it's a simple project to review all importants conceps ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magdielmarques/content-review.git"
+  },
+  "author": "Magdiel Marques Macedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magdielmarques/content-review/issues"
+  },
+  "homepage": "https://github.com/magdielmarques/content-review#readme"
+}
